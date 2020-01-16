@@ -1,0 +1,36 @@
+.omikuji{
+  background-image: url("rakuda.JPG");
+}
+
+.daikichi{
+  background-image: url("daikichi.jpg");
+}
+
+.kichi{
+  background-image: url("kichi.jpg");
+}
+
+.kyo{
+  background-image: url("kyo.jpg");
+}
+
+.daikyo{
+  background-image: url("daikyo.jpg");
+}
+
+.container{
+  text-align:  center;
+  height: 100px; 
+}
+
+body h1{
+  font-size: 60px;
+}
+
+.dictate{
+  color:black;
+  font-size: 30px;
+  background-color: #f7f5f5;
+  opacity: 0.5;
+}
+
